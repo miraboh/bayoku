@@ -54,4 +54,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### Credit to
- Nimish-Jain Link => https://github.com/Nimish-Jain/Company-Website-React
+ Nimish-Jain => https://github.com/Nimish-Jain/Company-Website-React
