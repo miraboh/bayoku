@@ -15,8 +15,6 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Screen Shots
-![image 1](https://github.com/miraboh/bayoku/src/screenshots/1.PNG=true)
-![alt text](http://src/screenshots/1.PNG)
 <p align="center">
   <img src="https://raw.githubusercontent.com/miraboh/bayoku/a7dbcebe56576d65d425f8de257f3f3a5a893a63/src/screenshots/1.PNG" width="300" height="200">>
 <img src="https://raw.githubusercontent.com/miraboh/bayoku/a7dbcebe56576d65d425f8de257f3f3a5a893a63/src/screenshots/2.PNG" width="300" height="200">>
