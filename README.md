@@ -15,7 +15,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Screen Shots
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![image 1](https://github.com/miraboh/bayoku/src/screenshots/1.PNG=true)
 ![alt text](http://src/screenshots/1.PNG)
 
 ## Learn More About React
